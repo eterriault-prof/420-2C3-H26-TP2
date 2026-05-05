@@ -1,0 +1,44 @@
+[
+  {
+    "type": "Film",
+    "titre": "Inception",
+    "genre": "science-fiction",
+    "annee": 2010,
+    "statut": "vu",
+    "duree": 148
+  },
+  {
+    "type": "Film",
+    "titre": "Dune",
+    "genre": "science-fiction",
+    "annee": 2021,
+    "statut": "à voir",
+    "duree": 155
+  },
+  {
+    "type": "Film",
+    "titre": "Parasite",
+    "genre": "thriller",
+    "annee": 2019,
+    "statut": "vu",
+    "duree": 132
+  },
+  {
+    "type": "Serie",
+    "titre": "Breaking Bad",
+    "genre": "drame",
+    "annee": 2008,
+    "statut": "en cours",
+    "nb_saisons": 5,
+    "nb_episodes": 62
+  },
+  {
+    "type": "Serie",
+    "titre": "Chernobyl",
+    "genre": "drame",
+    "annee": 2019,
+    "statut": "vu",
+    "nb_saisons": 1,
+    "nb_episodes": 5
+  }
+]
